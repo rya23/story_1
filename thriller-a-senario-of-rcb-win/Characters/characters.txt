@@ -1,0 +1,70 @@
+================================================================================
+CHARACTERS
+================================================================================
+
+The cast of characters with their traits, motivations, and arcs.
+
+--------------------------------------------------------------------------------
+
+## Main Characters
+
+• Item 1:
+    • Name: Virat Kohli
+    • Role: Protagonist
+    • Description: A seasoned captain, known for his aggressive batting style and unwavering determination. He carries the weight of past failures but is determined to lead RCB to victory.
+    • Backstory: Kohli has been with RCB since its inception, experiencing both incredible highs and crushing lows.  He's seen the team's potential but has also been haunted by near misses and disappointments. His personal life is largely kept private, adding to his enigmatic persona.
+    • Motivations: 
+        • Redeeming RCB's past failures.
+        • Securing his legacy as a winning captain.
+        • Proving his critics wrong.
+        • Winning the IPL for his team and fans
+    • Arc: Kohli starts burdened by past defeats and self-doubt. As the tournament progresses, he embraces the challenge, evolves as a leader, inspires his team, and ultimately leads them to victory, achieving redemption and solidifying his legacy.
+• Item 2:
+    • Name: Faf du Plessis
+    • Role: Supporting Protagonist
+    • Description: A calm and composed leader, known for his tactical acumen and ability to remain steady under pressure. He complements Kohli's aggressive style.
+    • Backstory: Du Plessis is a seasoned cricketer with a reputation for his cool head and effective leadership. Having led successful teams before, he brings a wealth of experience to RCB.
+    • Motivations: 
+        • Winning the IPL.
+        • Supporting and mentoring the younger players.
+        • Building a strong team atmosphere.
+        • Contributing to the team's overall success
+    • Arc: Du Plessis starts as a steady presence, guiding the team through challenges. He plays a critical role in team bonding and resolving conflicts, and acts as a key advisor to Kohli, helping him maintain calm under pressure.
+• Item 3:
+    • Name: Mohammed Siraj
+    • Role: Supporting Protagonist
+    • Description: A fiery and aggressive fast bowler, known for his relentless pace and ability to take crucial wickets. His emotional intensity is a double-edged sword.
+    • Backstory: Siraj's journey has been marked by adversity and perseverance. Overcoming personal challenges, he has established himself as a key figure in the RCB bowling attack.
+    • Motivations: 
+        • To prove his worth and become a top-tier fast bowler.
+        • To contribute to RCB's success.
+        • To silence his doubters.
+        • To help RCB win the championship
+    • Arc: Siraj initially struggles with his consistency due to the immense pressure of the finals. He learns to control his emotions, becoming more disciplined and consistent, delivering crucial breakthroughs at key moments.
+
+
+## Supporting Characters
+
+• Item 1:
+    • Name: Rohit Sharma
+    • Role: Antagonist
+    • Description: The captain of Mumbai Indians, known for his exceptional batting prowess and strategic brilliance. He represents the established order of IPL champions.
+    • Backstory: Sharma has already achieved great success in the IPL, his captaincy leading MI to multiple titles. He's revered for his composure and strategic acumen, and he represents the benchmark that RCB seeks to surpass.
+    • Motivations: 
+        • Maintaining Mumbai's dominance in the IPL.
+        • Winning his fifth IPL title.
+        • Maintaining his status as a top-tier captain.
+        • Outsmarting Kohli and RCB in the final
+    • Arc: Sharma remains a consistent and formidable opponent throughout the tournament. While he initially seems unconcerned by RCB's challenge, he acknowledges their growing strength and ultimately delivers a tough competition in the final match.
+• Item 2:
+    • Name: New Coach (Simon)
+    • Role: Supporting Protagonist
+    • Description: A brilliant and unorthodox coach with a proven track record. His unconventional strategies disrupt the traditional norms of the game.
+    • Backstory: Simon has previously coached smaller teams to success, demonstrating the ability to build winning teams from seemingly unlikely candidates. He is a master tactician who is not afraid to take risks and make unconventional decisions.
+    • Motivations: 
+        • To lead RCB to victory.
+        • To prove the effectiveness of his unconventional coaching methods.
+        • To help the team believe in themselves.
+        • To achieve personal redemption after previous coaching setbacks
+    • Arc: Simon's unorthodox strategies are initially met with skepticism. But, as his plans begin to bear fruit, he earns the team's trust and helps bring about a positive change in their mental game.
+

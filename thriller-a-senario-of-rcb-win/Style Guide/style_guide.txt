@@ -1,0 +1,41 @@
+================================================================================
+STYLE GUIDE
+================================================================================
+
+Guidelines for the writing style, tone, and point of view.
+
+--------------------------------------------------------------------------------
+
+## Tone
+
+Inspirational
+
+
+## Writing Style
+
+Fast-paced, cinematic, focusing on emotional impact and the thrill of victory against the odds. The narrative will use vivid imagery and metaphorical language to heighten the tension and excitement of the matches.
+
+
+## Pov
+
+Third Person Omniscient
+
+
+## Tense
+
+Past
+
+
+## Stylistic Elements
+
+• Metaphors and similes to enhance descriptions of the matches and emotional states
+• Short, impactful sentences during moments of high tension
+• Focus on internal monologues of key players to showcase their determination and struggles
+• Use of dramatic irony to create suspense
+• Pacing that accelerates during crucial moments
+
+
+## Sample Paragraph
+
+The roar of the Ahmedabad crowd was a physical force, a wave of sound threatening to wash over the RCB players as they took to the field.  Each man carried the weight of years of near-misses, of broken promises, the ghosts of past failures clinging to them like a shroud. But tonight, under the unforgiving glare of the stadium lights, something felt different.  A quiet determination, forged in the fires of adversity, burned in their eyes. It was the quiet before the storm, a hush before the heart-stopping crescendo of redemption.
+

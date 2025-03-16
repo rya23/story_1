@@ -1,0 +1,42 @@
+================================================================================
+WORLD BUILDING
+================================================================================
+
+Details about the setting, locations, culture, and rules of the story world.
+
+--------------------------------------------------------------------------------
+
+## Locations
+
+• Narendra Modi Stadium, Ahmedabad: The majestic Narendra Modi Stadium in Ahmedabad, with its sprawling capacity and electrifying atmosphere, serves as the epicenter of the IPL final. The sheer size and energy of the crowd, the vibrant colors, and the roar of the spectators create an intense and unforgettable experience for players and viewers alike.
+• Rcb Locker Room: A space where the team strategizes, bonds, and confronts their inner demons. The atmosphere ranges from tense and serious during strategic discussions to lighter and more jovial during moments of relaxation and team building.
+• Hotel In Ahmedabad: The players' haven, away from the intensity of the stadium. A mix of individual rooms for privacy and shared spaces for team bonding, providing a space for reflection, relaxation, and strategizing.
+• Practice Grounds: The space where the team hones their skills, the sweat and hard work reflecting in the worn grass and echoing in the determined atmosphere. It's where their hopes and anxieties take shape, and the foundation of their potential triumph is laid.
+
+
+## Culture
+
+• Cricket Culture In India: Cricket in India is more than a sport; it's a religion, a source of national pride, and a unifying force. The IPL final embodies this, with immense fan fervor, media attention, and national significance.
+• Team Spirit Of Rcb: Despite past failures, RCB fosters a culture of resilience and determination. This is reflected in their training, bonding sessions, and interactions within and outside the field. The team dynamic shifts throughout the story from conflict and frustration to camaraderie and unity.
+• Coaching Philosophy: Coach Simon's unorthodox approach contrasts with the traditional methods of other teams. His innovative strategies and emphasis on mental fortitude are key to transforming RCB’s performance.
+• Fan Culture: The vibrant, passionate, and sometimes intense culture of IPL fans – their unwavering support and sometimes harsh criticism – is a major driving force in the story. The weight of fan expectation is a significant source of pressure for the players.
+
+
+## History
+
+RCB has a history of near misses and disappointments in the IPL, despite possessing incredibly talented players. This history creates a backdrop of tension and expectation, influencing the team dynamics and the players' emotional journeys.  The weight of past failures and the desire for redemption form a significant part of the narrative.
+
+
+## Rules
+
+• Standard rules of cricket apply.
+• IPL regulations regarding player contracts and team management are in effect.
+• Media regulations and player conduct codes influence how the team interacts with the public.
+• Internal team dynamics and the evolving coaching strategies contribute to shaping the team's performance.
+
+
+## Descriptions
+
+• Stadium Atmosphere: The roar of the crowd is deafening, a wave of sound that washes over the players.  The air crackles with anticipation, a palpable energy that amplifies the tension of every ball bowled, every run scored.  The lights blaze, transforming the stadium into a gladiatorial arena where the team battles for redemption. The smell of sweat, grass, and anticipation hangs heavy in the air.
+• Final Match: The final match is a crucible of emotions: hope, fear, exhilaration, and desperation all intertwine. The pressure is immense, each play amplified by the knowledge that victory or defeat hangs in the balance. The tension is palpable, every run, every wicket, every decision having a profound impact on the outcome. The atmosphere is electric, a breathtaking culmination of years of striving and struggling for this ultimate victory.
+

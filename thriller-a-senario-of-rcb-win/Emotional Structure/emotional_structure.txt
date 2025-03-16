@@ -1,0 +1,76 @@
+================================================================================
+EMOTIONAL STRUCTURE
+================================================================================
+
+The emotional journey and key emotional beats throughout the narrative.
+
+--------------------------------------------------------------------------------
+
+## Emotional Arc
+
+The overall emotional arc will be one of rising tension and anticipation, interspersed with moments of doubt and despair, ultimately culminating in a triumphant and cathartic release of emotion with RCB's victory.
+
+
+## Emotional Beats
+
+• Item 1:
+    • Placement: Beginning of the tournament
+    • Emotion: Anxiety and apprehension
+    • Characters Affected: 
+        • Virat Kohli
+        • RCB team
+    • Description: RCB faces early setbacks, reigniting past traumas and anxieties about their ability to win the IPL.  Kohli grapples with self-doubt and the weight of expectation.
+    • Purpose: To establish the central conflict and emotional stakes
+• Item 2:
+    • Placement: Mid-tournament turnaround
+    • Emotion: Hope and determination
+    • Characters Affected: 
+        • Virat Kohli
+        • Faf du Plessis
+        • RCB team
+    • Description: A new coaching strategy and improved player performances spark renewed hope and determination within the team.  Kohli's leadership evolves and inspires renewed confidence.
+    • Purpose: To shift the emotional tone and introduce a sense of possibility
+• Item 3:
+    • Placement: Series of close matches
+    • Emotion: Suspense and resilience
+    • Characters Affected: 
+        • Entire RCB team
+        • Fans
+    • Description: RCB faces a series of nail-biting matches, testing their resilience and unity.  The emotional rollercoaster keeps the audience engaged and invested in the team's journey.
+    • Purpose: To build tension and showcase the team's fighting spirit
+• Item 4:
+    • Placement: Key player injury
+    • Emotion: Fear and despair
+    • Characters Affected: 
+        • Virat Kohli
+        • Injured player
+        • RCB team
+    • Description: A crucial injury throws RCB into disarray.  The team faces a potential crisis, and despair threatens to overwhelm them.  Kohli must rally his team despite the setback.
+    • Purpose: To introduce a major obstacle and heighten the tension
+• Item 5:
+    • Placement: Playoff victory
+    • Emotion: Euphoria and relief
+    • Characters Affected: 
+        • Entire RCB team
+        • Fans
+    • Description: A stunning last-minute victory in the playoffs propels the team into the final.  The overwhelming relief and sense of accomplishment are palpable.
+    • Purpose: To provide a crucial turning point and a powerful emotional reward
+• Item 6:
+    • Placement: IPL Final
+    • Emotion: Intense pressure and determination
+    • Characters Affected: 
+        • Virat Kohli
+        • RCB team
+        • Opponent team
+    • Description: The final match is a high-stakes battle of wits and skill.  The pressure is immense, testing the players' ability to perform under intense scrutiny.  Determination and resilience are pushed to their limits.
+    • Purpose: To maximize tension and build to the climatic moment
+• Item 7:
+    • Placement: Last-ball victory
+    • Emotion: Triumph, catharsis, and redemption
+    • Characters Affected: 
+        • Virat Kohli
+        • RCB team
+        • Fans
+    • Description: RCB wins the final with a stunning last-ball victory. The emotions of triumph, catharsis, and redemption are fully realized, marking a significant turning point for the team and its captain.
+    • Purpose: To provide a satisfying resolution and a powerful emotional climax
+

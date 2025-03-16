@@ -1,0 +1,28 @@
+================================================================================
+DIALOGUES
+================================================================================
+
+Key conversations between characters that advance the plot and reveal character.
+
+--------------------------------------------------------------------------------
+
+## Scenes
+
+• Item 1:
+    • Scene Name: Pre-Match Tensions
+    • Location: RCB Locker Room
+    • Characters Present: 
+        • Virat Kohli
+        • Faf du Plessis
+        • Mohammed Siraj
+    • Context: The final match against MI is hours away.  Tension hangs heavy in the RCB locker room. Virat paces, while Faf calmly assesses the situation. Siraj shows his usual fiery intensity, but there's an undercurrent of anxiety.
+    • Dialogue Text: "Another final, another chance.  I can feel it in my bones, Faf. This is our moment." Virat's voice is tight, his eyes filled with a mixture of hope and apprehension.  \"This time, we don't choke.  We win."\n\"Virat, calm down. We've done the prep, the team is focused. It's about execution now. Remember the plan, trust your instincts, and lead by example." Faf's voice is calm and reassuring, a stark contrast to Virat's anxious energy.\n"Easy for you to say, Faf. You're not the one carrying the weight of a decade of near misses." Virat's frustration bubbles to the surface.\n"Easy for you to say, Virat. You're not carrying my experience," Faf replies gently.\nSiraj, his face grim, cuts in: \"Let's not waste time with this.  I'm ready to bowl my heart out.  Let's get this title.\n"I know you are, champ. Thanks, both of you," Virat says, taking a deep breath.  "Let's do this."
+• Item 2:
+    • Scene Name: Final Over
+    • Location: Narendra Modi Stadium, Ahmedabad
+    • Characters Present: 
+        • Virat Kohli
+        • Rohit Sharma
+    • Context: The final ball. RCB needs 2 runs to win.  Virat is on strike.  The tension is unbearable.
+    • Dialogue Text: (The stadium is silent, except for the pounding of a thousand hearts.)\nKohli takes guard, his eyes locked on Sharma. The bowler stares back. Sharma grins, a cold, calculating grin that sends chills down the spine.\n(Kohli swings and connects, a mighty blow that sends the ball soaring. The crowd gasps.)\n(The ball reaches the boundary. Cheers erupt.)\nSharma turns to Kohli, extending his hand. \"Well played, Virat.  You played remarkably well. Congratulations." His voice is quiet, acknowledging defeat with unexpected grace.\nKohli shakes his hand, a rare smile spreading across his face.  \"Thank you, Rohit. It was a battle. We earned it."
+
