@@ -1,0 +1,53 @@
+================================================================================
+DIALOGUES
+================================================================================
+
+Key conversations between characters that advance the plot and reveal character.
+
+--------------------------------------------------------------------------------
+
+## Scenes
+
+• Item 1:
+    • Scene Name: The Discovery
+    • Location: RCB Locker Room
+    • Characters Present: 
+        • Virat Kohli
+        • AB de Villiers
+        • Aniket
+    • Context: Days before the IPL final, Aniket, a young bowler, discovers evidence of tampering with RCB's equipment. He confides in Kohli and AB de Villiers.
+    • Dialogue Text: "Captain," Aniket began, his voice barely above a whisper, "I found something strange in the equipment room.  There's a tiny scratch on my favorite ball, almost invisible, but... it feels different."
+
+Kohli frowned. "Different how?"
+
+"It's heavier, somehow.  The seam feels...altered.  Like someone messed with it."
+
+AB de Villiers, who had been quietly studying his bat, looked up, his expression serious.  "Let's take a closer look.  This could be serious."
+• Item 2:
+    • Scene Name: Confrontation
+    • Location: Sanjay's Hideout
+    • Characters Present: 
+        • Virat Kohli
+        • Sanjay
+    • Context: Kohli confronts Sanjay, the disgruntled former player, after gathering enough evidence to reveal him as the saboteur.
+    • Dialogue Text: "Sanjay," Kohli said, his voice low and dangerous, "We know it was you.  The tampered equipment, the leaked information… it all points to you."
+
+Sanjay chuckled, a bitter, humorless sound.  "You finally figured it out, Kohli?  After all these years of success, you have no one to blame but yourselves."
+
+"This wasn't about success or failure, Sanjay. This was about sabotaging your teammates, your friends.  Why?"
+
+"Friends?  They left me to rot when my career ended.  This is my revenge.  You'll never win this trophy."
+• Item 3:
+    • Scene Name: Pre-Match pep talk
+    • Location: RCB Locker Room
+    • Characters Present: 
+        • Virat Kohli
+        • AB de Villiers
+        • Aniket
+    • Context: Just before the final match against the Mumbai Indians, Kohli addresses the team, emphasizing the need for unity and determination despite the challenges faced.
+    • Dialogue Text: "Alright, gentlemen," Kohli said, his voice ringing with controlled intensity. "We've faced more than our fair share of challenges.  There's been sabotage, injuries... but we are here.  We've fought our way to this moment.  Mumbai is waiting. They think we're finished, broken. Let's show them what RCB is really made of."
+
+AB de Villiers nodded, a calm smile playing on his lips. "Twenty years of heartbreak. Let's rewrite history, together."
+
+Aniket, his eyes shining with fierce determination, spoke quietly, "For RCB!"
+

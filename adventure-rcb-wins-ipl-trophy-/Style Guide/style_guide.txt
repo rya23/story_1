@@ -1,0 +1,41 @@
+================================================================================
+STYLE GUIDE
+================================================================================
+
+Guidelines for the writing style, tone, and point of view.
+
+--------------------------------------------------------------------------------
+
+## Tone
+
+Suspenseful and urgent
+
+
+## Writing Style
+
+Fast-paced, cinematic, with a focus on vivid imagery and sensory details.
+
+
+## Pov
+
+Third-person limited, primarily following the perspective of RCB's captain.
+
+
+## Tense
+
+Past tense
+
+
+## Stylistic Elements
+
+• Short, punchy sentences
+• Use of metaphors and similes to heighten tension
+• Emphasis on action and movement
+• Minimal internal monologue, focusing instead on external actions and reactions
+• Suspenseful cliffhangers at the end of each section
+
+
+## Sample Paragraph
+
+The Mumbai night throbbed with a million heartbeats, a feverish energy that mirrored the tension coiling in Virat's gut.  The stadium lights, a blinding galaxy, cast long shadows on the manicured pitch.  He felt the weight of twenty years of defeat, the hopes of millions, crushing down on his shoulders.  A single, misplaced throw, a missed catch, the smallest misstep, and it could all be over.  He rubbed his sweaty palms, his eyes scanning the faces in the dugout, searching for a sign of wavering resolve, a flicker of doubt. He found none.  Tonight, the tide would turn.
+

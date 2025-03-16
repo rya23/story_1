@@ -1,0 +1,65 @@
+================================================================================
+CHARACTERS
+================================================================================
+
+The cast of characters with their traits, motivations, and arcs.
+
+--------------------------------------------------------------------------------
+
+## Main Characters
+
+• Item 1:
+    • Name: Virat Kohli
+    • Role: Protagonist
+    • Description: The captain of RCB, a charismatic and determined leader with exceptional cricketing skills. Despite his outward confidence, he carries the weight of past failures and the pressure of leading his team to victory.  He's known for his aggressive batting style and fierce competitiveness.
+    • Backstory: Kohli's journey has been one of overcoming adversity, from his early days struggling to make the national team to the many years of leading RCB through near-misses in the IPL.  He's a natural leader with a strong sense of responsibility towards his team.
+    • Motivations: 
+        • To win the IPL trophy for RCB and silence his critics.
+        • To prove his own leadership capabilities.
+        • To see his teammates' dreams fulfilled
+    • Arc: Kohli evolves from a tense, driven captain to a more empathetic and trusting leader, learning to rely on his team and make difficult decisions under pressure. He learns to separate his personal desire to win from the needs of the team.
+• Item 2:
+    • Name: AB de Villiers
+    • Role: Supporting Protagonist
+    • Description: An explosive batsman and calm presence in the team, known for his unorthodox shots and cool-headedness under pressure. A mentor figure to the team's younger players. His relaxed demeanor masks a deep-seated competitive spirit.
+    • Backstory: AB de Villiers is a legendary cricketer with a history of individual accolades.  Despite his success, he's known for his loyalty to his team and for valuing their collective effort above personal glory. This makes him a valuable asset in the face of sabotage.
+    • Motivations: 
+        • To support Kohli and ensure the team's success.
+        • To share his experience and guide the younger players.
+        • To savour a final IPL victory before retirement
+    • Arc: Initially, de Villiers provides quiet support, but as the sabotage intensifies, his involvement increases; he becomes more proactive in helping to identify the saboteur and boost team morale.
+• Item 3:
+    • Name: Rohit Sharma
+    • Role: Antagonist
+    • Description: The captain of the Mumbai Indians, a strategic and ruthless opponent known for his astute game sense and calm leadership under pressure. He's a master tactician who will stop at nothing to achieve victory.
+    • Backstory: Sharma has seen his fair share of rivalries, but his feud with Kohli and RCB is one of the most intense and long-standing in IPL history.  He respects his opponent's talent, but he is determined to ensure the Mumbai Indians take home the trophy.
+    • Motivations: 
+        • To win the IPL trophy for the Mumbai Indians.
+        • To crush RCB's hopes and extend the rivalry.
+        • To reinforce his dominance as the best captain in IPL
+    • Arc: Sharma's character remains relatively consistent throughout the story, his resolve only strengthening as RCB closes in on victory.  His rivalry with Kohli provides suspense and conflict.
+
+
+## Supporting Characters
+
+• Item 1:
+    • Name: Aniket
+    • Role: Supporting Protagonist
+    • Description: A young, promising bowler in the RCB team. He's initially nervous about the pressures of the IPL final, but his determination and loyalty prove invaluable. He is the one who first suspects foul play.
+    • Backstory: Aniket comes from a humble background, making his place in RCB a significant accomplishment.  His dedication and talent are undeniable.
+    • Motivations: 
+        • To prove his worth to the team.
+        • To contribute to RCB's victory.
+        • To make a name for himself in the world of cricket
+    • Arc: Aniket transforms from an insecure rookie into a confident and crucial player, learning the importance of teamwork and trust. His journey mirrors the team's overall growth and demonstrates the importance of individual contributions towards a shared goal.
+• Item 2:
+    • Name: Sanjay
+    • Role: Antagonist
+    • Description: A disgruntled former RCB player harboring a grudge against the team. He's intelligent and cunning, capable of orchestrating a complex scheme of sabotage.
+    • Backstory: Once a promising talent within RCB, Sanjay's career was cut short due to injuries, fueling his resentment towards the team that he feels abandoned him. He believes he was unfairly treated, leading him to seek revenge.
+    • Motivations: 
+        • To get revenge on RCB for perceived injustices.
+        • To damage the team's reputation.
+        • To prove his worth by destroying their success
+    • Arc: Sanjay's plan backfires, leaving him exposed and facing the consequences of his actions.
+
