@@ -1,0 +1,41 @@
+================================================================================
+WORLD BUILDING
+================================================================================
+
+Details about the setting, locations, culture, and rules of the story world.
+
+--------------------------------------------------------------------------------
+
+## Locations
+
+• Palampur: A small, impoverished village in rural India, characterized by dusty streets, vibrant markets, and the omnipresent scent of spices and woodsmoke.  Cricket is the heart of the village, with a worn-out but beloved cricket pitch at its center.
+• Mumbai Cricket Club: A bustling hub of cricketing activity, teeming with aspiring players, renowned coaches, and the constant hum of intense competition. It's a place of both opportunity and crushing disappointment.
+• National Cricket Stadium: A magnificent stadium representing the pinnacle of Indian cricket, where thousands of spectators gather to witness the clash of titans. The atmosphere is electric, filled with cheers, chants, and the tension of high-stakes competition.
+• Rohan'S Home: A humble dwelling, reflecting the family's modest means. It's filled with the warmth of family but also reflects the financial burdens they face.
+
+
+## Culture
+
+• Cricket Culture: Cricket is more than just a sport in Palampur; it's a religion, a source of pride, and a means of escape from the harsh realities of daily life. It unites the community and provides hope for a better future.  The national cricket scene is intensely competitive, with fierce rivalries and enormous pressure to succeed.
+• Family Values: Family plays a central role in Indian society, with strong emphasis on tradition and respect for elders.  Decisions are often made collectively, with family consensus carrying significant weight.
+• Social Class: A significant social hierarchy exists, with distinct class divisions shaping opportunities and expectations.
+
+
+## History
+
+Palampur has always been a village deeply connected with cricket, albeit without ever producing any notable players until Rohan. The national cricket scene has a rich history, marked by moments of triumph and heartbreak, shaping national pride and identity.  Generations of players have risen and fallen, each leaving their mark on the game.
+
+
+## Rules
+
+• The rules of cricket are followed as per the established international regulations.
+• There is an unspoken rule in Palampur that those who are not passionate about cricket should not expect to find acceptance.
+• In the national cricket scene, intense competition and a meritocratic selection process govern the selection of players.
+
+
+## Descriptions
+
+• Palampur'S Cricket Pitch: The worn-out pitch, baked hard by the sun, bore countless scars of past battles.  Cracks spiderwebbed across its surface, testament to years of passionate play.  The boundary was marked by uneven, hastily erected ropes, but for the villagers, it was a sacred ground, the stage of their dreams.
+• Mumbai'S Cricket Club: The air crackled with anticipation, a palpable buzz of energy hanging in the air.  The scent of freshly cut grass mingled with the aroma of sweat and ambition.  The rhythmic thud of bats hitting balls and the excited chatter of players filled every corner of the expansive club.
+• National Stadium Atmosphere: The roar of the crowd was deafening, a wave of sound that crashed over the players like a tidal wave.  The vibrant colors of the cheering spectators, a kaleidoscope of human emotion, painted a picture of fervent national pride.  The stadium seemed to vibrate with the energy of the game, palpable even in the hushed moments between plays.
+
