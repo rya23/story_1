@@ -1,0 +1,54 @@
+================================================================================
+DIALOGUES
+================================================================================
+
+Key conversations between characters that advance the plot and reveal character.
+
+--------------------------------------------------------------------------------
+
+## Scenes
+
+• Item 1:
+    • Scene Name: Pre-Match Locker Room
+    • Location: RCB Locker Room
+    • Characters Present: 
+        • Virat Kohli
+        • AB de Villiers
+        • Mike Hesson
+        • Anushka Sharma
+    • Context: The team is in the locker room moments before the final match. Tension and grief are palpable.  A holographic projection of the deceased player flickers in the corner.
+    • Dialogue Text: "It feels...wrong," Devdutt says quietly, staring at the holographic image. "Winning like this.
+\"I know," Kohli replies, his voice rough. "But we have to do it for him. For all of us."
+Hesson places a hand on Kohli's shoulder. "Focus, captain. We've trained for this. Let's honor his memory with a win."
+Anushka steps forward, her voice calm but determined.  "The system checks are all clear.  But keep an eye on sector 7; there's a slight power fluctuation."
+• Item 2:
+    • Scene Name: During the Match: Technical Glitch
+    • Location: Mars Stadium
+    • Characters Present: 
+        • Virat Kohli
+        • Anushka Sharma
+    • Context: A major technical malfunction occurs during the match, threatening to disrupt the game. Holographic displays go haywire, and the stadium lights flicker.
+    • Dialogue Text: "Anushka, what's happening?" Kohli shouts over the chaos.
+"Sector 7 overload! I'm rerouting power, but...
+\"But what?" Kohli demands, his face grim.
+"...there's a risk of a complete system failure. We need to finish this inning quickly."
+• Item 3:
+    • Scene Name: Post-Match: Victory and Reflection
+    • Location: RCB Locker Room
+    • Characters Present: 
+        • Virat Kohli
+        • AB de Villiers
+    • Context: RCB wins the match. The team is exhausted but victorious. The celebration is muted, overshadowed by their loss.
+    • Dialogue Text: "We did it," Devdutt says, his voice barely a whisper. He looks at the memorial garden.
+"Yes," Kohli replies, staring at the same memorial garden, "but at what cost? It doesn't feel like a victory."
+"It's a victory for him," Devdutt replies quietly. "Let's honor him."
+• Item 4:
+    • Scene Name: Kohli's Apartment: Decision
+    • Location: Kohli's Apartment
+    • Characters Present: 
+        • Virat Kohli
+        • Anushka Sharma
+    • Context: Kohli is alone in his apartment, contemplating his future. Anushka joins him.
+    • Dialogue Text: "I don't know if I can keep doing this, Anushka. Not without him."
+Anushka sits beside him, putting a hand on his shoulder. "You don't have to decide tonight.  Honor his memory by making the choice that's best for you."
+

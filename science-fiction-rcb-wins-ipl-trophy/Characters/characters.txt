@@ -1,0 +1,64 @@
+================================================================================
+CHARACTERS
+================================================================================
+
+The cast of characters with their traits, motivations, and arcs.
+
+--------------------------------------------------------------------------------
+
+## Main Characters
+
+• Item 1:
+    • Name: Virat Kohli
+    • Role: Protagonist
+    • Description: The captain of RCB, a seasoned and respected leader, known for his aggressive batting style and unwavering determination.  He is haunted by the loss of his close friend and struggles with the emotional weight of leading the team.
+    • Backstory: Kohli has been playing cricket since childhood, constantly pushing himself to be the best.  He is deeply affected by the death of his friend and former teammate.
+    • Motivations: 
+        • To win the IPL trophy for his team and his fallen friend.
+        • To lead his team through their grief and maintain their unity.
+        • To find meaning and purpose despite personal loss and team isolation on Mars
+    • Arc: Kohli starts as a grieving leader struggling to unite his team. He learns to channel his grief into motivating his players, eventually finding a new purpose in honoring his friend's memory through the team's triumph. He confronts his own loneliness and makes a decision about his future in cricket.
+• Item 2:
+    • Name: Anushka Sharma
+    • Role: Supporting Protagonist
+    • Description: A brilliant data analyst for RCB and Kohli's close confidante.  She provides emotional support and helps deal with the technical challenges during the match.
+    • Backstory: A childhood friend of Kohli and a highly skilled analyst who left a lucrative job on Earth to support him on his Martian endeavors.
+    • Motivations: 
+        • To help RCB win the match despite the loss of a player and technical issues.
+        • To be a support system for Kohli during his grief.
+        • To keep hope alive in this seemingly hopeless situation
+    • Arc: Anushka's unwavering support and analytical skills prove invaluable. She finds emotional fulfillment in assisting her friends and team, reinforcing the bonds of their close friendship on Mars.
+• Item 3:
+    • Name: AB de Villiers (Devdutt)
+    • Role: Supporting Protagonist
+    • Description: A veteran batsman known for his unorthodox brilliance, grappling with the loss of his close friend and the team's emotional distance from the Earth-bound fans. 
+    • Backstory: A celebrated cricketer who moved to Mars to contribute to the team's success. The loss of his friend weighs heavily on him, making him feel detached from the game's importance.
+    • Motivations: 
+        • To win the match to honor the fallen friend.
+        • To bridge the team's emotional divide and reconnect with their fans on Earth.
+        • To overcome his own grief and find meaning in the team's victory
+    • Arc: Initially lost and distant, Devdutt eventually finds renewed purpose and meaning in the victory. Although still grieving, he contributes significantly to winning, and finds a quiet sense of peace and reconciliation in celebrating with his team.
+
+
+## Supporting Characters
+
+• Item 1:
+    • Name: Mike Hesson
+    • Role: Supporting
+    • Description: The calm and collected coach of RCB, providing strategic guidance and emotional support to the team.
+    • Backstory: A seasoned coach with extensive experience in high-pressure situations, he tries to help the team navigate their emotional turmoil.
+    • Motivations: 
+        • To win the IPL trophy.
+        • To help his players cope with their loss and maintain their focus during the match.
+        • To instill unity and confidence in the team
+    • Arc: Hesson remains a steady guiding force, helping the team overcome both the technical and emotional challenges they face. He helps the team find balance in their victory while also accepting their loss.
+• Item 2:
+    • Name: The Deceased Player
+    • Role: Symbolic
+    • Description: A charismatic and beloved team member who died before the final match. His memory motivates the team throughout the story.
+    • Backstory: A highly influential player known for his high spirits and team spirit. His sudden death leaves a massive void within the team.
+    • Motivations: 
+        • N/A (deceased)
+        • His memory is a driving force for the remaining team members to succeed and honor his spirit
+    • Arc: Though absent physically, the deceased player remains a central figure. His memory pushes the team to strive for excellence and acts as a unifying force, shaping the trajectory of the game and the players' emotional responses.
+

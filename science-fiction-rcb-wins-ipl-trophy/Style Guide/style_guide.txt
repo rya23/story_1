@@ -1,0 +1,40 @@
+================================================================================
+STYLE GUIDE
+================================================================================
+
+Guidelines for the writing style, tone, and point of view.
+
+--------------------------------------------------------------------------------
+
+## Tone
+
+Melancholic and Reflective
+
+
+## Writing Style
+
+Lyrical prose with precise, evocative language.  Focus on internal emotional states and sensory details.
+
+
+## Pov
+
+Third-person limited, primarily focusing on Virat Kohli's perspective.
+
+
+## Tense
+
+Past tense
+
+
+## Stylistic Elements
+
+• Metaphors and similes to convey emotion and the vastness of space
+• Sparse, emotionally charged dialogue
+• Detailed descriptions of the Martian landscape and stadium technology
+• Use of imagery related to both cricket and the isolation of space
+
+
+## Sample Paragraph
+
+The Martian dust swirled around the stadium, a rusty halo encircling the roar of the crowd—a crowd transmitted from Earth, their cheers echoing faintly in the cavernous bowl.  Virat Kohli stood on the pitch, the crimson ball gleaming faintly under the artificial sun, feeling the weight of his team's victory as a burden.  It was their first IPL trophy, a prize earned at the edge of the known world, but the taste was ash in his mouth, each thunderous applause a reminder of what was lost on Earth.
+

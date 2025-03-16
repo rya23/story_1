@@ -1,0 +1,40 @@
+================================================================================
+WORLD BUILDING
+================================================================================
+
+Details about the setting, locations, culture, and rules of the story world.
+
+--------------------------------------------------------------------------------
+
+## Locations
+
+• Mars Stadium: A technologically advanced cricket stadium on a terraformed section of Mars.  Features retractable roofing, advanced climate control, and holographic displays for remote fans.
+• Rcb Locker Room: A space designed for relaxation and strategizing, equipped with advanced biofeedback technology to monitor player stress levels and provide mental support.
+• Kohli'S Apartment: A modest but comfortable living space with panoramic views of the Martian landscape, reflecting the loneliness yet peace of life away from Earth.
+• Memorial Garden: A quiet area within the stadium complex dedicated to the deceased player, featuring a holographic projection of the player and memorial plaques.
+
+
+## Culture
+
+• Mars Cricket Culture: A blend of Earth's cricket culture with Martian adaptations. Matches are broadcasted globally, but the physical distance creates a sense of isolation for the players.  Technological innovations are integrated into the game, yet traditional elements are maintained.
+• Team Cohesion: Despite their success, the team struggles with emotional distance caused by their Martian isolation and the loss of a teammate.  Strong bonds exist but are tested by their environment and circumstances.
+
+
+## History
+
+In the aftermath of devastating climate change on Earth, humanity established a colony on Mars.  Cricket, a beloved sport, found a new home on the red planet, becoming a symbol of human resilience and a connection to Earth's heritage. The establishment of the Mars-based IPL provided an avenue for human connection and the continued pursuit of human endeavor.
+
+
+## Rules
+
+• Matches are played under strict environmental controls, with advanced technology used to maintain optimal playing conditions.
+• Advanced technology is integrated into the game, including holographic replays and real-time data analysis.
+• Communication with Earth is maintained but limited by distance and technological constraints, leading to feelings of isolation for the Martian teams.
+
+
+## Descriptions
+
+• Mars Stadium Exterior: The stadium stands as a monument of human ambition against the rust-colored landscape.  Sleek, metallic curves contrast with the Martian dust, while massive solar panels power the stadium's technology.  The air shimmers with heat, but inside, the climate is perfectly controlled.
+• Mars Stadium Interior: The stadium's interior is a marvel of technology.  Holographic displays project the faces of cheering fans from Earth, creating a surreal atmosphere.  The pitch itself is meticulously maintained, a vibrant green contrast to the red planet.
+• Martian Landscape: A vast, desolate expanse of red dust and rocky terrain stretches as far as the eye can see. The thin atmosphere casts a soft, ethereal light, making the landscape both beautiful and alien.
+

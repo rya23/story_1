@@ -1,0 +1,64 @@
+================================================================================
+EMOTIONAL STRUCTURE
+================================================================================
+
+The emotional journey and key emotional beats throughout the narrative.
+
+--------------------------------------------------------------------------------
+
+## Emotional Arc
+
+The story follows a melancholic arc, beginning with grief and anticipation, rising to a peak of tense excitement during the match, and culminating in a bittersweet victory overshadowed by profound loss and isolation.
+
+
+## Emotional Beats
+
+• Item 1:
+    • Placement: Beginning of the story
+    • Emotion: Grief and anticipation
+    • Characters Affected: 
+        • Virat Kohli
+        • AB de Villiers
+        • RCB team
+    • Description: The team is preparing for the final match, still grieving the recent loss of a beloved teammate.  The weight of past failures and the pressure of the final game create a palpable sense of tension and uncertainty.
+    • Purpose: Establishes the emotional tone of the story and introduces the central conflict
+• Item 2:
+    • Placement: During the match, introduction of technical glitches
+    • Emotion: Fear and desperation
+    • Characters Affected: 
+        • Virat Kohli
+        • Anushka Sharma
+        • RCB team
+    • Description: Unexpected malfunctions in the stadium's technology threaten to disrupt the match, adding another layer of stress and uncertainty for the team. The players battle both their opponent and the malfunctioning technology, increasing the stakes and amplifying the emotional intensity.
+    • Purpose: Raises the stakes and creates a more dramatic climax
+• Item 3:
+    • Placement: Kohli's internal struggle
+    • Emotion: Internal conflict, grief, determination
+    • Characters Affected: 
+        • Virat Kohli
+    • Description: Kohli grapples with his grief and struggles to maintain his composure and motivate his team despite the immense pressure. He remembers his friend and uses his pain to motivate the team.
+    • Purpose: Develops character depth and explores the psychological toll of leadership under intense pressure
+• Item 4:
+    • Placement: RCB's victory
+    • Emotion: Relief and muted joy
+    • Characters Affected: 
+        • RCB team
+    • Description: RCB wins the match, overcoming both external and internal challenges.  However, the victory is bittersweet, overshadowed by the loss of their teammate and the team's overall sense of isolation on Mars.
+    • Purpose: Creates a complex emotional response from the reader, highlighting the nuances of triumph and loss
+• Item 5:
+    • Placement: Post-victory reflections
+    • Emotion: Melancholy and isolation
+    • Characters Affected: 
+        • Virat Kohli
+        • AB de Villiers
+        • RCB team
+    • Description: The team members reflect on their loss, their success, and the loneliness of their lives on Mars. The emptiness of their victory emphasizes the cost of their achievement.
+    • Purpose: Reinforces the melancholic tone and explores the themes of loss, isolation, and the meaning of success
+• Item 6:
+    • Placement: Kohli's decision
+    • Emotion: Acceptance and resolve
+    • Characters Affected: 
+        • Virat Kohli
+    • Description: Kohli makes a decision about his future, accepting the bittersweet nature of their achievement and acknowledging the ongoing absence of his friend and the team's struggles.  His resolution underscores the team's ability to face their future and find new paths to healing.
+    • Purpose: Provides a sense of closure while maintaining the melancholic tone
+
